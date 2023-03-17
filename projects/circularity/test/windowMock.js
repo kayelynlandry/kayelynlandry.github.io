@@ -28,6 +28,7 @@ const windowMock = {
                     x: 0,
                     y: 0,
                     radius: 10
+                
                 }
             },
             fps: function() {return {}}
